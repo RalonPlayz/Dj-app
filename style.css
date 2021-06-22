@@ -1,0 +1,45 @@
+.heading
+{
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    margin: 0px;
+    font-size: 22px;
+    color: purple;
+}
+#note
+{
+    font-size: 15px;
+    color: red;
+}
+.copy_right_footer
+{
+    width: 100%;
+    font-size: 22px;
+    background-color: lavender;
+    color: purple;
+    position: absolute;
+    bottom: 0;
+
+}
+
+body
+{
+    background-size: cover;
+}
+
+#div_speed_image
+{
+    width: 200px;
+    
+    border-radius: 100px;
+    
+
+}
+.div_speed
+{
+    float: left;
+}
+.div_volume
+{
+    float: right;
+}
